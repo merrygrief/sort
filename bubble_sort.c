@@ -19,4 +19,4 @@ void bubble_sort(int *a, int n)
             if(a[j-1] > a[j]) {int t = a[j-1]; a[j-1] = a[j]; a[j] = t;}
         }
     }
-}
+} 
